@@ -13,5 +13,5 @@ fileSplitter.py [-h] [-f File Path] [-c Chunk Size | -n n_parts] MODE
   <p>-c <b>Chunk Size</b>  Ukuran size split.</p>
   <p>-n <b>n_parts</b>     Jumlah bagian file yang akan di split</p>
   <p> </p>
-  <p>Untuk join file</p>
+ 
   <p>Ex.:python fileSplitter.py split \path\to\file -n 10       Men Split file menjadi 10 bagian dan direktory foldernya \[filename]_SPLITTED</p>
